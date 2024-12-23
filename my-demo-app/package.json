@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
-    "my-react-sass-package": "file:../my-react-sass-package",
+    "my-react-sass-package": "github:ARogovsky/npm-saas-component#main",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
