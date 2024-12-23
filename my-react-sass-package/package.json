@@ -1,0 +1,15 @@
+{
+  "name": "my-react-sass-package",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "A sample React package with SASS (indent syntax)",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
